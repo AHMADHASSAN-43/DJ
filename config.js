@@ -64,7 +64,7 @@ const config = {
     OWNER_NUMBER: '923221540695',
     DEV: '923221540695',
     IK_IMAGE_PATH: './lib/ahmadmd.jpg',
-    BOT_IMAGE: 'https://files.catbox.moe/p4xi2g.jpg',
+    BOT_IMAGE: 'https://files.catbox.moe/2maqd9.jpg',
     
     // Newsletter Configuration
     NEWSLETTER_JID: '120363426472060176@newsletter',
@@ -123,7 +123,7 @@ const config = {
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: ' 𝘼𝙃𝙈𝘼𝘿 𝙈𝘿🚩',
-        BOT_IMAGE: 'https://files.catbox.moe/p4xi2g.jpg',
+        BOT_IMAGE: 'https://files.catbox.moe/2maqd9.jpg',
         
         // Emoji Lists
         STATUS_REACT_EMOJIS: ['💗', '🎀', '🫠', '🫶', '🌚', '💐'],
